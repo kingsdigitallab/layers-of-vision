@@ -19,7 +19,7 @@ workTitle: Capturing Movement in Motion
 year: 2022
 workType: Audible experience using audio description 
 workSize  ca. 4 min. 
-workDescription: Capturing Movement in Motion is an audible experience describing two images, one of which is blurry, which is how I see as a visually impaired person. The other is clear, which is how my vision changes depending on the lighting and the contrast in colours around me. The audible experience explores what it is like to be heavily reliant on contrast lighting magnification in order to create a clear image. The audible experience can be experienced while sitting down, standing up or moving around.
+workDescription: Capturing Movement in Motion is an audible experience describing two images, one of which is blurry. This is how I see as a visually impaired person. The other is clear, which is how my vision changes depending on the lighting and the contrast in colours around me. The audible experience explores what it is like to be heavily reliant on contrast lighting magnification in order to create a clear image. The audible experience can be experienced while sitting down, standing up or moving around.
 audioLink: /assets/audio/Mickel.mp3
 transcriptLink: /assets/transcript/MickelTranscript.docx
 order: 2
