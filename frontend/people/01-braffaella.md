@@ -5,7 +5,7 @@ artistWeb: biancaraffaella.com
 artistInsta: biancaraffaella
 artistTwitter: b_raffaella92
 workImage: /assets/img/artists/Bianca.jpg
-altText: This images comproses of four canvas images, two white, two yellow in colour. Each canvas has textures built up through soft sponged marks and relief tissue paper, depicting roses and leaves. The coloured paintings are washed in a warm glow of pale pinks, yellows and touches of green.
+altText: This image comprises of four canvas images; two white, two yellow in colour. Each canvas has textures built up through soft sponged marks and relief tissue paper,depicting roses and leaves. The coloured paintings are washed in a warm glow of pale pinks, yellows and touches of green.
 workImage2:
 altText2:
 workImage3:
@@ -20,8 +20,8 @@ year: 2022
 workType: Collage installation of tissue paper and acrylic on four canvases
 workSize: 90 × 65 × 1 cm each
 workDescription: In The Rose Garden is a polyptych image of a wild rose bush. The coloured image on the top left shows the rosebush how Bianca sees it through her left eye. The coloured image on the top right pictures the rosebush through her right eye. White versions of the same rosebush images sit below the coloured ones and represent what it is like to rely on touch but no vision. This artwork challenges the traditional and the inaccessible in the contemporary visual arts.
-audioLink:/assets/audio/Bianca.mp3
-transcriptLink:/assets/transcript/BiancaTranscript.docx
+audioLink: /assets/audio/Bianca.mp3
+transcriptLink: /assets/transcript/BiancaTranscript.docx
 order: 1
 teams:
   - artists
