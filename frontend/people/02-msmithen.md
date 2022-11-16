@@ -3,7 +3,7 @@ firstName: Mickel
 lastName: Smithen
 artistWeb: ebonyrose.net
 artistInsta: ebony_rose_dark
-artistTwitter: N/A
+artistTwitter: 
 workImage: 
 altText:
 workImage2:
