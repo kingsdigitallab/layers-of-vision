@@ -5,7 +5,7 @@ artistWeb: biancaraffaella.com
 artistInsta: biancaraffaella
 artistTwitter: b_raffaella92
 workImage: /assets/img/artists/Bianca.jpg
-altText: Four canvas images, two white, two yellow in colour. Each canvas has textures built up through soft sponged marks and relief tissue paper, depicting roses and leaves. The coloured paintings are washed in a warm glow of pale pinks, yellows and touches of green.
+altText: This images comproses of four canvas images, two white, two yellow in colour. Each canvas has textures built up through soft sponged marks and relief tissue paper, depicting roses and leaves. The coloured paintings are washed in a warm glow of pale pinks, yellows and touches of green.
 workImage2:
 altText2:
 workImage3:
