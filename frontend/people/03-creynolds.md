@@ -19,7 +19,8 @@ workTitle: Fab too Touch
 year: 2022
 workType: Braille touchable pop art
 workSize: 208 × 80 cm
-workDescription: This piece is about what people may often see when they see a blind person "Oh that person is blind, they cannot see anything". But blindness is a spectrum and there is so much that people, and galleries, do not understand around sight loss. When people see the Fab ice lolly that's all they see. But there's so much more hidden in the image... "just like me..." says the artist. The Fab ice lolly can be touched by everyone, but only truly understood by those who read braille. For those who can’t there is an audio-description.
+workDescription:
+  > This piece is about what people may often see when they see a blind person: "Oh that person is blind, they cannot see anything". But blindness is a spectrum and there is so much that people, and galleries, do not understand around sight loss. When people see the Fab ice lolly that's all they see. But there's so much more hidden in the image... "just like me..." says the artist. The Fab ice lolly can be touched by everyone, but only truly understood by those who read braille. For those who can’t there is an audio-description.
 audioLink: /assets/audio/Clarke.mp3
 transcriptLink: /assets/transcript/ClarkeTranscript.docx
 order: 3
