@@ -5,7 +5,7 @@ artistWeb: seeingwithoutseeing.com
 artistInsta: blind.braille.artist
 artistTwitter:
 workImage: /assets/img/artists/clark_v2.jpg
-altText: The colourful shape of a Fab lolly is shown on a bright blue background. The image is made of braille in spots of different colours to show the lolly’s chocolate-dipped top, bands of red and white and the lolly’s stick.
+altText: A montage of three perspectives of the work. The central image shows the colourful shape of a Fab lolly is shown on a bright blue background. The image is made of braille in spots of different colours to show the lolly’s chocolate-dipped top, bands of red and white and the lolly’s stick.
 workImage2:
 altText2:
 workImage3:
