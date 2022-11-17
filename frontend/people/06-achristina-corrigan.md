@@ -1,7 +1,7 @@
 ---
 firstName: Alice
 lastName: Christina-Corrigan
-artistWeb: https://alicechristina.wixsite.com/my-site
+artistWeb: alicechristina.wixsite.com/my-site
 artistInsta:
 artistTwitter: aliceccorrigan
 workImage:
