@@ -20,8 +20,8 @@ year: 2022
 workType: Silkscreen print and textured wall vinyl
 workSize: 125 x 182 cm
 workDescription: The wall vinyl shows a close-up portrait of a visually impaired female, with quotes from other blind and partially sighted people overlying it in text made with a textured surface. This piece explores the stigma faced by many and the preconceived ideas people have of what people with sight loss can and cannot achieve, to the rich and stimulating ways sight loss often informs an artist's practice. Fae has also created an A3 zinc etching of the piece, that offers visual and tactile contrast.
-audioLink:
-transcriptLink:
+audioLink: /assets/audio/Fae.mp3
+transcriptLink: /assets/transcript/FaeTranscript.docx
 order: 9
 teams:
   - artists
