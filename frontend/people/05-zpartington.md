@@ -20,8 +20,8 @@ year: 2022
 workType: Sound and light installation linked to live data from the artist’s blood glucose levels
 workSize: 240 × 150 cm
 workDescription: Decoding Difference is the idea that the sculpture is the artist herself. The emanating lights mirror Zoe’s changing blood glucose levels and the sound of her heartbeat. The lights reflect Zoe’s hidden impairment and sight loss but not as a victim to be pitied or as a sick person, but as a woman who emanates will power, life and humanity. Zoe believes if she is seen as possessing strength, rather than courage, then difference will be welcomed, not ignored. In that case, the idea of difference will not be equated with deficit, a societal construct that blocks disabled people’s ability to enact change.
-audioLink:
-transcriptLink:
+audioLink: /assets/audio/Zoe.mp3
+transcriptLink: /assets/transcript/ZoeTranscript.docx
 order: 5
 teams:
   - artists
