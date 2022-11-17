@@ -4,8 +4,8 @@ lastName: Doig
 artistWeb:
 artistInsta:
 artistTwitter:
-workImage:
-altText:
+workImage: /assets/img/artists/natalie_v2.jpg
+altText: Four images positioned horizontally; image one at the far left corner, shows a cityscape of Edinburgh at sunset with the majestic castle in the background. Image two second form the lef t shows a tourist looking into the camera with crowds surrounding him in the busy cityscape. Image three, third from the left shows a majestic tree with a small individual looking upwards at its magnificence. The final image on the right hand side shows a seascape with a green island off in the distance.
 workImage2:
 altText2:
 workImage3:
