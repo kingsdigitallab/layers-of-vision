@@ -5,7 +5,7 @@ artistWeb:
 artistInsta:
 artistTwitter:
 workImage: /assets/img/artists/faye_v2.jpg
-altText: This image shows words which are shared in the audio description and transcription in full scrawled over a distorted image of a female face. The colors are dark - brown to black for the portrait of the face with the letters shown in a bronze - brown colour.
+altText: This image shows 2 perspectives of the physical work, showing words which are shared in the audio description and transcription in full scrawled over a distorted image of a female face. The colors are dark-brown to black for the portrait of the face with the letters shown in a bronze-brown colour.
 workImage2:
 altText2:
 workImage3:
