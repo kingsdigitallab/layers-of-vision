@@ -2,8 +2,8 @@
 firstName: Zoe
 lastName: Partington
 artistWeb: www.zoepartington.co.uk
-artistInsta: tightcontrol
-artistTwitter:
+artistInsta: 
+artistTwitter: tightcontrol
 workImage:
 altText:
 workImage2:
