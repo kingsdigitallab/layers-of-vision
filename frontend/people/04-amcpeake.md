@@ -4,8 +4,8 @@ lastName: McPeake
 artistWeb:
 artistInsta:
 artistTwitter:
-workImage:
-altText:
+workImage: /assets/img/artists/aaron_v2.jpg
+altText: This image shows two white Snellen charts used by opticians. They are aligned side by side. The chart on the left hand side shows distorted and blurred shapes which are assumed to be the blurred letters of the chart. Whilst the second chart on the right hand side shows the lettering perfectly crisp and clean.
 workImage2:
 altText2:
 workImage3:
