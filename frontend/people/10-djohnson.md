@@ -5,7 +5,7 @@ artistWeb:
 artistInsta:
 artistTwitter:
 workImage: /assets/img/artists/david_v2.jpg
-altText: This image shows a 3D sculpture surrounded by a steel frame. The sculpture shows three sculptures. The furthest away sculpture shows David using his cane as he passes a chair with a red hat positioned on its corner. The middle sculpture shows David sitting on a chair with the red hat on his head. The final and closest sculptural scene shows a mirroring of the first sculpture of David using his cane and now passed the chair with the red hat positioned on its corner. In the background of the image are students and persons congregating in the social gallery area.
+altText: This image shows two perspectives of a 3D sculpture surrounded by a steel frame. The sculpture has three separate sculptures. The rightmost image shows a sculpture of David using his cane as he passes a chair with a red hat positioned on its corner. The leftmost image shows a sculpture of David sitting on a chair with the red hat on his head. The final sculptural scene (not pictured) shows a mirroring of the first sculpture of David using his cane and now passed the chair with the red hat positioned on its corner. In the background of the image are students and persons congregating in the social gallery area.
 workImage2:
 altText2:
 workImage3:
