@@ -27,16 +27,6 @@ layout: base.liquid
 </nav>
 
 <div class="artist block">
-  {% comment %}
-    <div class="row pre-title">
-    <div class="col-auto">
-    <span class="square">{{ order }}</span>
-    </div>
-    <div class="col-end">
-    <a href="#" class="button small">View Floorplan</a>
-    </div>
-    </div>
-  {% endcomment %}
   <h1 class="title">{{ title }}</h1>
   <h2>{{ workTitle }}</h2>
   <div class="row-full">
@@ -56,7 +46,7 @@ layout: base.liquid
       <audio controls src="{{ audioLink | url }}">
         <a href="{{ audioLink | url }}">Download audio</a>
       </audio>
-      <figcaption>Listen</figcaption>
+      <figcaption>Listen to the audio description.</figcaption>
     </figure>
   {% endif %}
 

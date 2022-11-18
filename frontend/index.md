@@ -26,7 +26,7 @@ eleventyNavigation:
   <audio controls src="{{ '/assets/audio/LoV_landing_page_audio.mp3' | url }}">
     <a href="{{ '/assets/audio/LoV_exhibition_landing_audio.mp3' | url }}">Download audio</a>
   </audio>
-  <figcaption>Listen to welcome message</figcaption>
+  <figcaption>Listen to welcome message.</figcaption>
 </figure>
 
 <div class="transcript-btn">
