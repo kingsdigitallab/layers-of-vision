@@ -327,6 +327,7 @@ main p,
 main .transcript-btn,
 .main .transcript-btn {
   margin-top: -15px;
+  margin-bottom: 2em;
 }
 
 .block {
