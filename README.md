@@ -15,10 +15,18 @@ Docs on how to add and update content is available in the [Wiki](https://github.
 
 ## Release notes
 
-### 0.1
+### 1.0
 
-- Initial release
+- Accessibility improvements: added more sr-only spans to facilitate screen readear users' experience
+- Added individual artist pages content
+- Active links on artits index page
+- Restored floorplan mao on the exhibition page
+- Image size optimisation
 
 ### 0.2
 
 - Removed floorplan from exhibition page
+
+### 0.1
+
+- Initial release
