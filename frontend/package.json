@@ -25,7 +25,6 @@
     "serve": "npx @11ty/eleventy --serve",
     "serve:debug": "DEBUG=Eleventy* npm run serve",
     "serve:debug:kdl": "DEBUG=Eleventy:KDL npm run serve"
-
   },
   "keywords": [],
   "devDependencies": {

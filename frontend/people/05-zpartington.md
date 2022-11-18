@@ -2,7 +2,7 @@
 firstName: Zoe
 lastName: Partington
 artistWeb: www.zoepartington.co.uk
-artistInsta: 
+artistInsta:
 artistTwitter: tightcontrol
 workImage:
 altText:
@@ -29,4 +29,3 @@ teams:
 
 Zoe Partington is a contemporary visual artist who uses her experience of being partially blind and living with a chronic condition for over 50 years to create a unique, research-led perspective in her art. Curating a life less ordinary, using creative and contemporary techniques to challenge the distressed edge of life, Zoe shares a passion for equality, particularly in the creative industries. Zoe is a very experienced leader and consultant in her specialist field of cultural inclusion and accessible approaches. She develops installations, and viscerally powerful-audio visual and tactile representations of Disabled people’s journeys and experiences through landscapes and the built environment. Zoe has won several awards and scholarships. She is showing ‘Domestic Landscapes’ 2022 in Madrid and across the UK, funded by ONCE in Spain and Arts Council England.
 Fellow of the RSA
-

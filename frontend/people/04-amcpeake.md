@@ -17,7 +17,7 @@ workVideoWebm:
 workVideoCaption:
 workTitle: Subjective Acuity
 year: 2022
-workType: Installation of prints on aluminium and bell-bronze castings. 
+workType: Installation of prints on aluminium and bell-bronze castings.
 workSize: Prints on aluminium (29 × 80 cm each), Bell-bronze castings (20 × 7 cm each).
 workDescription: Subjective Acuity is an installation that uses print and interactive bronze sound sculptures drawing on the theme of the Snellen Chart and the measurement of visual acuity. The lived experience of the artist has been included literally, with distorted imagery, as well as metaphorically, with the idea of sound being an important element. By making the prints ‘larger than life’ and providing touch and sounds elements, Aaron brings access to life in this artwork.
 audioLink: /assets/audio/Aaron.mp3

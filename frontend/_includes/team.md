@@ -13,4 +13,3 @@ team: the key of a team (e.g. sdt), see metadata.json
     </li>
   {%- endfor -%}
 </ol>
-
