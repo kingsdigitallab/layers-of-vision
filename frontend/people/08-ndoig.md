@@ -18,7 +18,7 @@ workVideoCaption:
 workTitle: Seeking Solitude
 year: 2022
 workType: Four photographs accompanied by soundscapes
-workSize: 40 x 60
+workSize: 40 x 60 cm
 workDescription: This photo series captures Natalie’s pursuit of solitude – on her own terms. Like many visually impaired people, Natalie experiences barriers to safe, spontaneous and independent travel, and choosing to be alone. The soundscapes reflect her experience of the locations. 1.	Blue Edinburgh morning, with distant and close birds chirping. 2.	Alone in a crowd, with people chatting and distant bagpipe music. 3.	Made small by nature, with birdsong, and wind swishing through tree branches. 4.	St Cuthbert’s Isle of dreams, with wading sea birds and distant grey seals
 audioLink: /assets/audio/Natalie.mp3
 transcriptLink: /assets/transcript/NatalieTranscript.docx

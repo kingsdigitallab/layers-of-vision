@@ -28,14 +28,33 @@ layout: base.liquid
 
 <div class="artist block">
   <h1 class="title">{{ title }}</h1>
-  <h2>{{ workTitle }}</h2>
+  <span class="sr-only">Artwork title:</span>
+  <h2>
+    {{ workTitle }}
+  </h2>
   <div class="row-full">
     <div class="col-start">
-      <p>{{ year }}</p>
-      <p>{{ workType }}</p>
-      <p>({{ workSize }})</p>
+      <p>
+        <span class="sr-only">Year:
+        </span>
+        {{ year }}
+      </p>
+      <p>
+        <span class="sr-only">Type of work:
+        </span>
+        {{ workType }}
+      </p>
+      {% if workSize %}
+        <p>
+          <span class="sr-only">Size of the work:
+          </span>
+          ({{ workSize }})
+        </p>
+      {% endif %}
     </div>
     <div class="col-auto">
+      <span class="sr-only">Description:
+      </span>
       <p>{{ workDescription }}</p>
     </div>
   </div>
@@ -110,7 +129,7 @@ layout: base.liquid
       {% if artistWeb %}
         <p>
           <a href="//{{ artistWeb }}">
-            <span class="sr-only">personal website
+            <span class="sr-only">Personal website
             </span>
             {{ artistWeb }}</a>
         </p>
