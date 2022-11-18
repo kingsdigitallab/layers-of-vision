@@ -15,6 +15,10 @@ Docs on how to add and update content is available in the [Wiki](https://github.
 
 ## Release notes
 
+### 1.1
+
+- Added GoatCounter Analytics
+
 ### 1.0
 
 - Accessibility improvements: added more sr-only spans to facilitate screen readear users' experience
