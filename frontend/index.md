@@ -54,4 +54,4 @@ eleventyNavigation:
   London, Strand, WC2B 4PJ
 </p>
 
-<a class="button" href="visitors/">Getting here</a>
+<a class="button" href="plan-your-visit/">Getting here</a>
