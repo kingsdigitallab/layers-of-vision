@@ -1,7 +1,7 @@
 ---
-firstName: Mickel
-lastName: Smithen
-artistWeb: ebonyrose.net
+firstName: Mickel 
+lastName: Smithen aka Ebony Rose Dark
+artistWeb: 
 artistInsta: ebony_rose_dark
 artistTwitter:
 workImage:
@@ -27,4 +27,4 @@ teams:
   - artists
 ---
 
-Ebony Rose Dark is your all singing/all dancing, Lip Syncing, Story Telling, Miming V.I.P/ Visually Impaired Cabaret/Performance Artist. Ebony Rose Dark is known for her performances around disability, ableism, racism, and relationships within the LGBTQ+ community at The Royal Vauxhall Tavern’s Bar Wotever. Ebony’s cabaret and dance performance is a continuous exploration of embracing both femininity and masculinity. She also has been researching and developing their cabaret works with audio descriptions. Ebony Rose Dark has performed nationally and internationally at venues including The Tate Modern, Edinburgh Fringe Festival 2012, Leeds City Art Gallery, Lyric Hammersmith, The Wardrobe Theatre Bristol, Southbank Centre and The Queen Elisabeth Hall.
+Mickel aka Ebony Rose Dark is your all singing/all dancing, Lip Syncing, Story Telling, Miming V.I.P/ Visually Impaired Cabaret/Performance Artist. She is known for her performances around disability, ableism, racism, and relationships within the LGBTQ+ community at The Royal Vauxhall Tavern’s Bar Wotever. Her cabaret and dance performance is a continuous exploration of embracing both femininity and masculinity. She also has been researching and developing their cabaret works with audio descriptions. Mickel aka Ebony Rose Dark has performed nationally and international at venues including The Tate Modern, Edinburgh Fringe Festival 2012, Leeds City Art Gallery, Lyric Hammersmith, The Wardrobe Theatre Bristol, Southbank Centre and The Queen Elisabeth Hall. 
