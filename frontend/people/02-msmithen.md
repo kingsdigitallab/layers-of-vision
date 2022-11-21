@@ -1,6 +1,6 @@
 ---
 firstName: Mickel 
-lastName: Smithen aka Ebony Rose Dark
+lastName: aka Ebony Rose Dark
 artistWeb: 
 artistInsta: ebony_rose_dark
 artistTwitter:
