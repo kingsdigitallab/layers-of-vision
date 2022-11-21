@@ -15,7 +15,7 @@ altText4:
 workVideoMp4:
 workVideoWebm:
 workVideoCaption:
-workTitle: Football in the City
+workTitle: Footfall in the City
 year: 2022
 workType: Two landscape format photographic lightboxes with layers of ink
 workSize: 45 x 32 x 4 cm
