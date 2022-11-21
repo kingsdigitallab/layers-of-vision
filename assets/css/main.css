@@ -510,6 +510,9 @@ svg a:hover polygon {
 .map svg {
   width: 100%;
 }
+.map + h2 {
+  margin-top: 2em;
+}
 
 /* 6. Media queries */
 @media screen and (max-width: 1279px) {
