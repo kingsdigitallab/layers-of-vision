@@ -20,8 +20,8 @@ year: 2022
 workType: Live performance and interactive collage on canvas.
 workSize:
 workDescription: Inner is an interactive collage that is born during the artist’s opening night live performance, and continues to grow through contributions of visitors throughout the exhibition run. The performance is underpinned by a dynamic sound score using paint, materials, and sensory exploration to evoke unique storytelling, and to push creative integrated access across artistic forms. It raises attention to the experience of being overlooked, underrepresented, and easily stereotyped, yet results in a beautiful collaborative collage, uniting us with the shared experience of humanity.
-audioLink:
-transcriptLink:
+audioLink: /frontend/assets/audio/artist/alice.m4a
+transcriptLink: 
 order: 6
 teams:
   - artists
