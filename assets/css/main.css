@@ -582,18 +582,18 @@ svg a:hover polygon {
     border: 0;
   }
   .prev-next .button,
-.small-screen .button {
+  .small-screen .button {
     font-size: calc(var(--base-font-size) * 1.25);
     line-height: 1.25em;
     padding: 8px 15px;
   }
   .prev-next.row,
-.small-screen.row {
+  .small-screen.row {
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 30px;
   }
   .prev-next.row .col-end,
-.small-screen.row .col-end {
+  .small-screen.row .col-end {
     align-self: end;
     text-align: right;
   }
@@ -674,7 +674,7 @@ svg a:hover polygon {
     line-height: 1.15625em;
   }
   .lov-logo h1,
-.lov-logo h2 {
+  .lov-logo h2 {
     height: 210px;
     line-height: 1;
     position: fixed;
