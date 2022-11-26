@@ -4,9 +4,9 @@ lastName: Booth
 artistWeb: www.sallybooth.co.uk
 artistInsta: sallyboothartist
 artistTwitter:
-workImage: /assets/img/artists/Sally1.jpg
+workImage: /assets/img/artists/Sally1.jpeg
 altText: This image shows a visual piece. It is  vibrant blue in colour and shows feet moving in almost blurred motions over steps. The second image on the right hand side shows feet moving on what could be described as a busy cityscape.
-workImage2: /assets/img/artists/Sally2.jpg
+workImage2: /assets/img/artists/Sally2.jpeg
 altText2: This second image shows another corresponsing visual piece. It is  vibrant blue in colour and shows feet moving in almost blurred motions over steps corresposing to it's partner visual image. Again, this  second image shows feet moving on what could be described as a busy cityscape, however the feet in this image are not all blue but are contrasted with some red, white and emboldened textures of blue throughout to show almost the shadowing of feet moving.
 workImage3:
 altText3:
