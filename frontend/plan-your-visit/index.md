@@ -25,6 +25,28 @@ Tube: Temple / Bus: 4, 26, 59, 68, 76, X68, 168, 171, 172,
 
 Free, no booking required.
 
+## Guided Tours
+
+We are offering guided tours through the exhibition. The curators will talk about how the Layers of Vision exhibition came to life and introduce visitors to each artwork. We would like to use these tours as an opportunity for participation and dialogue around access and disability in museums and beyond. Everyone who is interested is welcome to join.
+
+Please note these tours are not touch tours in the traditional sense. Everyone can touch everything all the time. Audio-descriptions, braille, large prints, and a tactile guiding system on the floor are built-in elements of the exhibition. 
+
+We are offering guided tours at the following days and times:
+28.11.22, 3pm - 4pm
+29.11.22, 3pm - 4pm
+30.11.22, 5pm - 6pm
+07.12.22, 3pm - 4pm
+12.12.22, 3pm - 4pm
+13.12.22, 5pm - 6pm
+14.12.22, 5pm - 6pm
+15.12.22, 3pm - 4pm
+
+You do NOT need to register. 
+
+If you have any questions with regards to the tours, or, if you would like to book a tour at a different day or time, please contact Katharina.husemann@kcl.ac.uk 
+
+We are looking forward to welcoming you at Layers of Vision.
+
 ## Access information
 
 Information about the artworks is available in large print, braille and via audio-descriptions. Access to the building is via a ramp / slope. Assistance dogs are always welcome. This venue does not play background music. The lighting levels are medium. Accessible toilet facilities are on site.
