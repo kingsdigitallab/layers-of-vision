@@ -4,7 +4,7 @@ lastName: Partington
 artistWeb: www.zoepartington.co.uk
 artistInsta:
 artistTwitter: tightcontrol
-workImage: /assets/img/Zoe.jpg 
+workImage: /assets/img/artists/Zoe.jpg
 altText:
 workImage2:
 altText2:
