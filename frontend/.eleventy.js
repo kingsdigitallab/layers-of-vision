@@ -19,6 +19,7 @@ module.exports = function (config) {
   config.addPassthroughCopy("assets/fonts");
   config.addPassthroughCopy("assets/img");
   config.addPassthroughCopy("assets/js");
+  config.addPassthroughCopy("assets/pdf");
   config.addPassthroughCopy("assets/transcript");
   config.addPassthroughCopy("assets/video");
 
