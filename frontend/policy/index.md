@@ -13,17 +13,7 @@ eleventyNavigation:
 
 Layers of Vision is a collaborative research impact project. The purpose of this project is to improve access and inclusion for blind and partially sighted (BPS) audiences in UK museums. In 2022, researchers from King's College London, Royal Holloway Business School and Lancaster University Management School partnered with Shape Arts, Zoe Partington, King's Culture and nine professional artists with lived experience of sight loss to co-design the Layers of Vision art exhibition.
 
-<figure>
-  <img src="/assets/img/policy/1GM07233.jpg" alt="All workshop participants standing in a half circle looking towards the camera. The room in the background is decorated in green, crème and wooden colours.">
-  <figcaption aria-hidden="true">All workshop participants standing in a half circle looking towards the camera. The room in the background is decorated in green, crème and wooden colours.</figcaption>
-</figure>
-
 This exhibition highlights the experiences of BPS artists in a world designed for the sighted. It challenges everyday barriers through creative explorations of accessibility, celebrating diverse forms of vision. Featuring multisensory elements, it invites engagement, sparks dialogue, and rethinks access and disability inclusion in the arts, museums and beyond.
-
-<figure>
-  <img src="/assets/img/policy/2GM06750.jpg" alt="Co-investigator Prof Anica Zeyen is sitting at a round white table with fellow workshop participants. They seem to be involved in a vivid discussion.">
-  <figcaption aria-hidden="true">Co-investigator Prof Anica Zeyen is sitting at a round white table with fellow workshop participants. They seem to be involved in a vivid discussion.</figcaption>
-</figure>
 
 **Shortcomings of Current Accessibility Policies**
 
@@ -59,6 +49,16 @@ On the 3rd of July 2025, the Layers of Vision team, in collaboration with the AP
    Introduce compulsory, regularly refreshed disability and sensory access training for all staff, including curators, front-of-house teams, facilities, communications, and senior leadership. Training should be developed and delivered in collaboration with blind and partially sighted people.
 
 [Download the Policy Brochure (PDF)](/assets/pdf/Policy%20Brochure%20LoV%20final.pdf)
+
+<figure>
+  <img src="/assets/img/policy/1GM07233.jpg" alt="All workshop participants standing in a half circle looking towards the camera. The room in the background is decorated in green, crème and wooden colours.">
+  <figcaption aria-hidden="true">All workshop participants standing in a half circle looking towards the camera. The room in the background is decorated in green, crème and wooden colours.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/policy/2GM06750.jpg" alt="Co-investigator Prof Anica Zeyen is sitting at a round white table with fellow workshop participants. They seem to be involved in a vivid discussion.">
+  <figcaption aria-hidden="true">Co-investigator Prof Anica Zeyen is sitting at a round white table with fellow workshop participants. They seem to be involved in a vivid discussion.</figcaption>
+</figure>
 
 <figure>
   <img src="/assets/img/policy/2GM06848.jpg" alt="Co-investigator Dr Leighanne Higgins is sitting at a round white table with fellow workshop participants. They seem to be involved in a vivid discussion. Leighanne is taking notes on a flip chart.">
