@@ -24,12 +24,12 @@ The UK Equality Act 2010 requires museums to make 'reasonable adjustments' for d
 On the 3rd of July 2025, the Layers of Vision team, in collaboration with the APPG for Eye Health and Visual Impairment, hosted a workshop at the House of Commons, UK Parliament. Based on their learnings from co-designing an exhibition, and in dialogue with members of the APPG, museum professionals, sector support organisations and sight loss organisations, they developed a set of recommendations on how current accessibility policy and practice in museums can be improved:
 
 1. **Introduce National Minimum Standards for Access and Inclusion**
-   Replace the reliance on "reasonable adjustments" with clear, enforceable minimum standards for museums, galleries, and heritage sites. These standards should be co-developed with blind and partially sighted people and guided by the core principle of **choice in how visitors access and engage with information and experiences**.
+   Replace the reliance on "reasonable adjustments" with clear, enforceable minimum standards for museums, galleries, and heritage sites. These standards should be co-developed with blind and partially sighted people and guided by the core principle of choice in how visitors access and engage with information and experiences.
 
    Examples of what minimum standards might include:
    - Mandatory provision of accessible formats through information access policies (e.g. audio description, tactile interpretation, large print, and digital alternatives).
    - Inclusive design of exhibitions and interpretation from the outset.
-   - Requirements for accessibility and inclusion in all **procured materials and services**, including exhibition design, digital platforms, and visitor communications.
+   - Requirements for accessibility and inclusion in all procured materials and services, including exhibition design, digital platforms, and visitor communications.
 
    These examples are illustrative and not exhaustive; the standards should remain flexible and responsive to evolving needs and technologies.
 
