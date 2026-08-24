@@ -33,7 +33,8 @@ On the 3rd of July 2025, the Layers of Vision team, in collaboration with the AP
 </br>
 </br>
    These examples are illustrative and not exhaustive; the standards should remain flexible and responsive to evolving needs and technologies.
-
+</br>
+</br>
 2. **Establish a National Access Board for Museums, Galleries, and Heritage Sites**
    Create an independent body to oversee the implementation of access standards, provide expert guidance, and recognise best practice through formal accreditation or awards. This board should include representation from disabled people and sector professionals.
 
