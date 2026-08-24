@@ -31,6 +31,7 @@ On the 3rd of July 2025, the Layers of Vision team, in collaboration with the AP
    - Inclusive design of exhibitions and interpretation from the outset.
    - Requirements for accessibility and inclusion in all procured materials and services, including exhibition design, digital platforms, and visitor communications.
 </br>
+</br>
    These examples are illustrative and not exhaustive; the standards should remain flexible and responsive to evolving needs and technologies.
 
 2. **Establish a National Access Board for Museums, Galleries, and Heritage Sites**
