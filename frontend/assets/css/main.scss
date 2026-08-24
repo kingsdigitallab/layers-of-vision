@@ -100,7 +100,7 @@ h4 {
   display: none;
 }
 
-ol {
+ol.team-list {
   list-style: none;
   margin-left: 0;
   padding-left: 0;
@@ -879,7 +879,7 @@ svg {
     }
   }
 
-  ol {
+  ol.team-list {
     > li {
       font-size: calc(var(--base-font-size) * 4);
     }

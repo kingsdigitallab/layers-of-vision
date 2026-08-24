@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 5
 ---
 
-# Enhancing Accessibility Policy for Blind and Partially Sighted (BPS) Audiences in UK Museums
+## Enhancing Accessibility Policy for Blind and Partially Sighted (BPS) Audiences in UK Museums
 
 **What is Layers of Vision?**
 

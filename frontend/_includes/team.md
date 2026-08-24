@@ -4,7 +4,7 @@ team: the key of a team (e.g. sdt), see metadata.json
 {% endcomment %}
 {% assign team_members = collections.people | lookup:'.data.teams',team | sortby:'order' %}
 
-<ol>
+<ol class="team-list">
   {%- for person in team_members -%}
     <li class="person">
       {%- if person | hasContent -%}<a href="{{ person.url | url }}">{%- endif -%}
