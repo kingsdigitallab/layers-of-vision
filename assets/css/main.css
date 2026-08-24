@@ -85,21 +85,21 @@ h4 {
   display: none;
 }
 
-ol {
+ol.team-list {
   list-style: none;
   margin-left: 0;
   padding-left: 0;
 }
-ol > li {
+ol.team-list > li {
   font-size: calc(var(--base-font-size) * 2);
   font-weight: 700;
   line-height: 1.15625em;
   margin-bottom: 0.5em;
 }
-ol > li a {
+ol.team-list > li a {
   text-decoration: none;
 }
-ol > li a:hover {
+ol.team-list > li a:hover {
   text-decoration: underline;
 }
 
@@ -705,7 +705,7 @@ svg a:hover polygon {
   .notehead.mobile {
     display: none;
   }
-  ol > li {
+  ol.team-list > li {
     font-size: calc(var(--base-font-size) * 4);
   }
   .prev-next {
