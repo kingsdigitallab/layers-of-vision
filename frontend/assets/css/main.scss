@@ -920,7 +920,9 @@ svg {
   }
 
   // Past-exhibition banner sits first in main, so it takes the top margin
+  // The logo is fixed top-left (210px wide), so indent the banner to clear it
   .past-notice {
+    margin-left: 240px;
     margin-top: 135px;
 
     p {

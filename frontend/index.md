@@ -16,7 +16,7 @@ eleventyNavigation:
     <p>
       <strong>21st November &mdash; 16th December 2022</strong><br>
       Coincided with UK Disability History Month<br>
-      This exhibition has now closed
+      <strong>Please note:</strong> this exhibition is not currently on display
     </p>
   </div>
 </div>
