@@ -735,6 +735,7 @@ svg a:hover polygon {
     width: 200px;
   }
   .past-notice {
+    margin-left: 240px;
     margin-top: 135px;
   }
   .past-notice p {
