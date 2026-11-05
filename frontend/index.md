@@ -14,9 +14,9 @@ eleventyNavigation:
 <div class="notehead mobile">
   <div>
     <p>
-      <strong>21st November &mdash; 16th December</strong><br>
-      Coinciding with UK Disability History Month<br>
-      Free, no booking required
+      <strong>21st November &mdash; 16th December 2022</strong><br>
+      Coincided with UK Disability History Month<br>
+      This exhibition has now closed
     </p>
   </div>
 </div>
@@ -46,7 +46,7 @@ eleventyNavigation:
 </figure>
 -->
 
-<h2>Where we are</h2>
+<h2>Where it was held</h2>
 
 <p class="large-font">
   The Arcade at Bush House,<br>

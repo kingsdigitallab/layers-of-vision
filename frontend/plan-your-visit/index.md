@@ -10,8 +10,8 @@ eleventyNavigation:
 
 ## When
 
-Layers of Vision is open to the public from 21st November to 16th December, coinciding with UK Disability History Month.<br>
-Mon – Fri: 10am to 6pm
+Layers of Vision was open to the public from 21st November to 16th December 2022, coinciding with UK Disability History Month.<br>
+Opening hours were Mon – Fri: 10am to 6pm.
 
 ## Where
 
@@ -27,11 +27,11 @@ Free, no booking required.
 
 ## Guided Tours
 
-We are offering guided tours through the exhibition. The curators will talk about how the Layers of Vision exhibition came to life and introduce visitors to each artwork. We would like to use these tours as an opportunity for participation and dialogue around access and disability in museums and beyond. Everyone who is interested is welcome to join.
+We offered guided tours through the exhibition. The curators talked about how the Layers of Vision exhibition came to life and introduced visitors to each artwork. These tours were an opportunity for participation and dialogue around access and disability in museums and beyond.
 
 Please note these tours are not touch tours in the traditional sense. Everyone can touch everything all the time. Audio-descriptions, braille, large prints, and a tactile guiding system on the floor are built-in elements of the exhibition. 
 
-We are offering guided tours at the following days and times:
+Guided tours were offered on the following days and times in 2022:
 28.11.22, 3pm - 4pm
 29.11.22, 3pm - 4pm
 30.11.22, 5pm - 6pm
@@ -40,12 +40,6 @@ We are offering guided tours at the following days and times:
 13.12.22, 5pm - 6pm
 14.12.22, 5pm - 6pm
 15.12.22, 3pm - 4pm
-
-You do NOT need to register. 
-
-If you have any questions with regards to the tours, or, if you would like to book a tour at a different day or time, please contact Katharina.husemann@kcl.ac.uk 
-
-We are looking forward to welcoming you at Layers of Vision.
 
 ## Access information
 

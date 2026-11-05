@@ -28,13 +28,16 @@ pageImageWebPath: "/assets/img/lov-web-preview.png"
   <body class="{{ body_class }}{% if permalink == '/' %} home {% else %} not-home{% endif %}" id="top">
     {% include "header.liquid" %}
     <main id="main" role="main">
+      <div class="past-notice" role="note">
+        <p><strong>Please note:</strong> this exhibition ran from 21st November to 16th December 2022. It is not currently on display.</p>
+      </div>
       {% if permalink == "/" %}
         <div class="notehead desktop">
           <div>
             <p>
-              <strong>21st November &mdash; 16th December</strong><br>
-              Coinciding with UK Disability History Month<br>
-              Free, no booking required</p>
+              <strong>21st November &mdash; 16th December 2022</strong><br>
+              Coincided with UK Disability History Month<br>
+              This exhibition has now closed</p>
           </div>
         </div>
       {% endif %}
